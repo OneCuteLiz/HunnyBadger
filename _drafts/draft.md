@@ -75,7 +75,7 @@ What's next?
 
 
 References
-Other than the links peppered throughout this article, here are some good reads to:
+Other than the links peppered throughout this article, here are some good reads too:
 
 Go deeper into the art of good interviewing
 

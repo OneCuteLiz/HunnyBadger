@@ -1,15 +1,26 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "E. Simone"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Primarily, I just want ya’ll to geek out with me about being a Product Owner within an Agile team, working more efficiently, Ruby on Rails, and Entrepreneurship.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+I **love** learning; it was my escape during traumatic times in my life, my zen flow is achieved when working through a problem, and it’s what I do when I’m not parenting my 4 kids. The learning is slow (because, kids 🤷🏾‍♀️) but steady and somewhat methodical (because, virgo ♍️). 
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+Aht, aht -– you heard “virgo” and here we go.....
+😂
 
-Thanks for reading!
+<br>
+This space is the answer to these questions, which I utter daily in some form or fashion. 🥴
+
+>“I just don’t understand why this isn’t working...”
+>
+>“You’ve tried it this way so many times; it’s still not working.
+>We’re trying something else, ya’ll.”
+>
+>“OOOOOO [insert squeal!], how do we get more of THIS and less of THAT?”
+>
+>“Sounds Legit. Let’s plan the work and work the plan!”
+
